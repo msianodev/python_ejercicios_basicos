@@ -1,0 +1,31 @@
+los datos son:
+Nombre: Juan
+Apellido: Gonzalez
+---------
+Nombre: Pedro
+Apellido: Garcia
+---------
+Nombre: Maria
+Apellido: Rodriguez
+---------
+Nombre: Jose
+Apellido: Fernandez
+---------
+Nombre: Luis
+Apellido: Lopez
+---------
+Nombre: Ana
+Apellido: Martinez
+---------
+Nombre: Carlos
+Apellido: Sanchez
+---------
+Nombre: Jorge
+Apellido: Perez
+---------
+Nombre: Miguel
+Apellido: Gomez
+---------
+Nombre: Pablo
+Apellido: Martin
+---------
